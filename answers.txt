@@ -1,0 +1,2 @@
+"What is the difference between a merge and a rebase?" 
+"A merge combines changes from 2 branhes into one branch. Merges can often lead to conflicts if there are chanhes made to a file on both branches" 
